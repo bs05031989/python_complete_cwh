@@ -1,0 +1,5 @@
+Function and recursion : Makes the code more reusable
+def keyword
+Built in : len, print
+User defined : According to the requirement
+Recursion : It is a function which calls itself.
