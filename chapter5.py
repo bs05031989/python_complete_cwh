@@ -19,3 +19,10 @@ b = {8,11,4,5,6,}
 
 print(a.union(b))
 print(a.intersection(b))
+
+my_dict1 = {"pankha": "Fan", "Vastu":"Item"}
+print("options",my_dict1.keys())
+a= input("Enter the hindi word\n" )
+print("The english translation is :", my_dict1.get(a))
+
+
