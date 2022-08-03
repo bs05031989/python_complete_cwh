@@ -1,0 +1,4 @@
+loops : Repeat Set of instructions
+For, While
+Range : Generate a Sequence of Numbers
+Break & Continue
