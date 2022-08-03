@@ -3,6 +3,6 @@ Types of file : a) Text -.txt b) Binary - .jpg,.dat
 Opening a file : Open()
 By Default the mode is read : Other modes : Read R, Write R, A Append
 RB : Read Binary : RT Read Text
-Writing a file : 
+Writing a file :
 Every time we need to close a file after Opening
 WITH : Automatically closes the opened file.
