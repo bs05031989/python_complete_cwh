@@ -1,0 +1,15 @@
+Variables and data types
+variable = container to store a value
+keyword = reserved words
+identifiers = class/function/variable name
+python automatically identifies data type for us
+print(type (a)) = <class, 'str'>
+Variable names can start with alphabets and _
+variables do not start with digits and white spaces
+variables are case sensitive as well
+There are four types of basic operators : Arithmetic, Assignment, Comparative, Logical
+Logical works on boolean
+AND : Both operands need to be true
+OR : Any operands need to be true
+Type casting : converting one data type to another
+
