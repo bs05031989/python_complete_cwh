@@ -1,0 +1,14 @@
+Dictionary : Key-Value Pairs
+Unordered, Indexed, Mutable
+Dictionary cant hold duplicate keys
+Methods : mydict.keys(), mydict.values()
+mydict.items() : key and value in form of a tuple
+
+Set : It contain unique values
+a = set() Empty set
+a = {} Dictionary
+
+List cant be added into the set as it is not hashable
+Set is Unordered and un indexed
+
+Set Methods: len, remove, union, intersection
