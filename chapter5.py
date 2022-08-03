@@ -1,3 +1,6 @@
+from subprocess import CompletedProcess
+
+
 my_dict = {"Bhupi": "I am a coder",
 "Sam" : "i am a hacker"}
 
@@ -25,4 +28,5 @@ print("options",my_dict1.keys())
 a= input("Enter the hindi word\n" )
 print("The english translation is :", my_dict1.get(a))
 
+CompletedProcess
 
