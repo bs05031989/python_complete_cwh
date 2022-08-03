@@ -1,0 +1,7 @@
+Python : 
+Modules : A file containing code written by someone else which can be imported and used in our program.
+PIP : Package manager for python to install a module : pip[ install flask
+Types of module : a) Built in - Pre installed with python. OS,ABC       b) External - Need to ne installed using pip. Tensorflow
+REPL : Read Evaluate Print Loop
+Comment : # Single line comment : ''' Multi line Comment '''
+  
