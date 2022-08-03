@@ -1,0 +1,4 @@
+List : Container to store a set of values of any data type.
+List is ordered, indexed, mutable, and sliced.
+List Methods : sorted, sort, reverse, append, insert, pop 
+Tuples : Container to store values that cant be updated later.
