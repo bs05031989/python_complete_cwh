@@ -50,3 +50,4 @@ print(sum(a))
 a = (7,0,9,0,8)
 print(a.count(0))
 
+# chapter 4 code
