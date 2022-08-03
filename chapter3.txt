@@ -1,0 +1,4 @@
+strings: Sequence of characters, we can use single, double and triple quotes.
+string can be sliced and concatenated
+Slicing can be done with a step value
+string functions: len, ends with, capitalize, find, replace, escape characters
